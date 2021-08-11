@@ -29,6 +29,6 @@
 
 ---
 
-Die Veröffentlichung der Sourcen befindet sich aktuell in Vorbereitung ...
+Die Veröffentlichung der Sourcen befindet sich aktuell in Vorbereitung.
 
 
