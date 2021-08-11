@@ -29,6 +29,6 @@
 
 ---
 
-Die Veröffentlichung der Sourcecodes befindet sich in Vorbereitung ...
+Die Veröffentlichung der Sourcen befindet sich aktuell in Vorbereitung ...
 
 
