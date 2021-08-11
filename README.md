@@ -12,7 +12,7 @@ Flexibles System für LoRa-APRS auf Basis des M5Stack Core GRAY
 
 [http://APRScube.de/firmware](http://APRScube.de/firmware)
 
-## Sourcen:
+## Sources:
 
 In Vorbereitung ...
 
