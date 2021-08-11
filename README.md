@@ -1,4 +1,9 @@
 # APRScube
+
+Flexibles System für LoRa-APRS auf Basis des M5Stack Core  
+
+![APRScube](http://APRScube.de/pictures/aprscube.jpg)
+
 ## Manual:
 
 [http://APRScube.de/manual](http://APRScube.de/manual)
