@@ -1,6 +1,6 @@
 # APRScube 
 
-Flexibles System für LoRa-APRS auf Basis des M5Stack Core GRAY
+Flexibles System für LoRa-APRS auf Basis des M5Stack Core BASIC
 
 ![APRScube](http://APRScube.de/pictures/title.jpg)
 
