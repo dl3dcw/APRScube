@@ -36,6 +36,12 @@ In Vorbereitung ...
 
 [http://APRScube.de/tools/EasyLoader_M5Core_FactoryTest.zip](http://APRScube.de/tools/EasyLoader_M5Core_FactoryTest.zip)
 
+## Videos:
+
+[https://www.youtube.com/watch?v=SDvjbY0dCVY](https://www.youtube.com/watch?v=SDvjbY0dCVY)
+
+[https://www.youtube.com/watch?v=dGxtnIyfxOE](https://www.youtube.com/watch?v=dGxtnIyfxOE)
+
 
 
 
