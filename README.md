@@ -28,14 +28,6 @@ In Vorbereitung ...
 
 [http://APRScube.de/hardware](http://APRScube.de/hardware)
 
-
-## Kits:
-
-[http://APRScube.de/manual/APRScube_qro.pdf](http://APRScube.de/manual/APRScube_qro.pdf)
-
-[http://APRScube.de/manual/APRScube_gps.pdf](http://APRScube.de/manual/APRScube_gps.pdf)
-
-
 ## Tools:
 
 [http://APRScube.de/tools/Flash_Download_Tool_v3.8.5.zip](http://APRScube.de/tools/Flash_Download_Tool_v3.8.5.zip)
