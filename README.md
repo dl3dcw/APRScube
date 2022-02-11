@@ -4,11 +4,9 @@ Flexibles System für LoRa-APRS auf Basis des M5Stack Core BASIC
 
 ![APRScube](http://APRScube.de/pictures/title.jpg)
 
-## Manuals:
+## Manual:
 
 [http://APRScube.de/manual](http://APRScube.de/manual)
-[http://APRScube.de/manual/APRScube_qro.pdf](http://APRScube.de/manual/APRScube_qro.pdf)
-[http://APRScube.de/manual/APRScube_gps.pdf](http://APRScube.de/manual/APRScube_gps.pdf)
 
 ## Firmware:
 
@@ -29,6 +27,14 @@ In Vorbereitung ...
 ## Hardware:
 
 [http://APRScube.de/hardware](http://APRScube.de/hardware)
+
+
+## Kits:
+
+[http://APRScube.de/manual/APRScube_qro.pdf](http://APRScube.de/manual/APRScube_qro.pdf)
+
+[http://APRScube.de/manual/APRScube_gps.pdf](http://APRScube.de/manual/APRScube_gps.pdf)
+
 
 ## Tools:
 
